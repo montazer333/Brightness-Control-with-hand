@@ -29,14 +29,6 @@ Install dependencies before running the program:
 pip install -r requirements.txt
 ```
 
----
-
-## 📦 Dependencies
-- mediapipe  
-- opencv-python  
-- screen-brightness-control  
-
----
 
 ## ▶️ Run
 To start the program, simply run:
@@ -58,8 +50,4 @@ Press **`q`** to quit the application.
 ## 🧾 License
 This project is licensed under the **MIT License** – feel free to use and modify it.
 
----
 
-## 👨‍💻 Author
-**mohammad hossein**  
-GitHub: [https://github.com/montazer333](https://github.com/montazer333)
